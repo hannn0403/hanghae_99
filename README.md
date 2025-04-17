@@ -29,6 +29,7 @@
   |**_10799_**|	[쇠막대기](https://www.acmicpc.net/problem/10799)|	실버 2|	`Stack`|	[10799_쇠막대기.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Stack/10799_%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0.md)|	00:10:00.00|	✅|
   |**_9996_**|	[한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)|	실버 3|	`String`|	[9996_한국이 그리울 땐 서버에 접속하지.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/String/9996_%ED%95%9C%EA%B5%AD%EC%9D%B4%20%EA%B7%B8%EB%A6%AC%EC%9A%B8%20%EB%95%90%20%EC%84%9C%EB%B2%84%EC%97%90%20%EC%A0%91%EC%86%8D%ED%95%98%EC%A7%80.md)|	00:10:00.00|	✅|
   |**_2559_**|	[수열](https://www.acmicpc.net/problem/2559)|	실버 3|	`String`|	[2559_수열.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/two_pointer/2559_%EC%88%98%EC%97%B4.md)|	00:10:00.00|	✅|
+  |**_11660_**|	[구간합구하기](https://www.acmicpc.net/problem/11660)|	실버 1|	`Prefix Sum`|	[11660_구간 합 구하기 5.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Prefix%20Sum/11660_%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%205.py)|	00:00:00.00|	✅|
   
 </details>
 
