@@ -21,10 +21,15 @@
 	
   |코드 번호|이름|난이도|풀이 유형|풀이 코드|풀이 시간|상태|
   |:------:|:------|:------:|:------|:------|:------|:------:|
-  |**_14495_**|	[피보나치 비스무리한 수열](https://www.acmicpc.net/problem/14495)|	실버 4|	`Dynamic Programming`|	[14495_피보나치_비스무리한_수열.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/14495_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EB%B9%84%EC%8A%A4%EB%AC%B4%EB%A6%AC%ED%95%9C%20%EC%88%98%EC%97%B4.md)|	00:10:00.00|	✅|
-  |**_17484_**|	[진우의 달 여행](https://www.acmicpc.net/problem/17484)|	실버 3|	`Dynamic Programming`|	[17484_진우의 달 여행.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/17484_%EC%A7%84%EC%9A%B0%EC%9D%98%20%EB%8B%AC%20%EC%97%AC%ED%96%89.md)|	00:45:00|	✔️|
-  |**_18258_**|	[큐2](https://www.acmicpc.net/problem/18258)|	실버 4|	`자료 구조`|	[18258_큐2.py](./[BOJ]/자료구조/18258_큐2.py)|	00:10:00.00|	✅|
-  |**_10828_**|	[스택](https://www.acmicpc.net/problem/10828)|	실버 4|	`자료 구조`|	[10828_스택.py](./[BOJ]/자료구조/10828_스택.py)|	00:05:36.22|	✅|
+  |**_14495_**|	[피보나치 비스무리한 수열](https://www.acmicpc.net/problem/14495)|	실버 4|	`DP`|	[14495_피보나치_비스무리한_수열.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/14495_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EB%B9%84%EC%8A%A4%EB%AC%B4%EB%A6%AC%ED%95%9C%20%EC%88%98%EC%97%B4.md)|	00:10:00.00|	✅|
+  |**_17484_**|	[진우의 달 여행](https://www.acmicpc.net/problem/17484)|	실버 3|	`DP`|	[17484_진우의 달 여행.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/17484_%EC%A7%84%EC%9A%B0%EC%9D%98%20%EB%8B%AC%20%EC%97%AC%ED%96%89.md)|	00:45:00|	✔️|
+  |**_2156_**|	[포도주 시식](https://www.acmicpc.net/problem/2156)|	실버 1|	`DP`|	[2156_포도주 시식.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/2156_%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D.md)|	00:45:00|	✔️|
+  |**_1783_**|	[병든 나이](https://www.acmicpc.net/problem/2156)|	실버 3|	`Greedy`|	[병든 나이트.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Greedy/1783_%EB%B3%91%EB%93%A0%EB%82%98%EC%9D%B4%ED%8A%B8.md)|	00:45:00|	✔️|
+  |**_2437_**|	[저울](https://www.acmicpc.net/problem/2156)|	실버 1|	`Greedy`|	[2437_저울.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Greedy/2437_%EC%A0%80%EC%9A%B8.md)|	00:45:00|	✔️|
+  |**_10799_**|	[쇠막대기](https://www.acmicpc.net/problem/10799)|	실버 2|	`Stack`|	[10799_쇠막대기.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Stack/10799_%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0.md)|	00:10:00.00|	✅|
+  |**_9996_**|	[한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)|	실버 3|	`String`|	[9996_한국이 그리울 땐 서버에 접속하지.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/String/9996_%ED%95%9C%EA%B5%AD%EC%9D%B4%20%EA%B7%B8%EB%A6%AC%EC%9A%B8%20%EB%95%90%20%EC%84%9C%EB%B2%84%EC%97%90%20%EC%A0%91%EC%86%8D%ED%95%98%EC%A7%80.md)|	00:10:00.00|	✅|
+  |**_2559_**|	[수열](https://www.acmicpc.net/problem/2559)|	실버 3|	`String`|	[2559_수열.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/two_pointer/2559_%EC%88%98%EC%97%B4.md)|	00:10:00.00|	✅|
+  
 </details>
 
 
@@ -37,69 +42,11 @@
   
   |코드 번호|이름|난이도|풀이 유형|풀이 코드|풀이 시간|상태|
   |:------:|:------|:------:|:------|:------|:------|:------:|
-  |**_92343_**|	[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|	Lv. 3|	`완전 탐색`|	[양과늑대.py](./[PGS]/양과늑대.py)|	00:00:00.00|	✔️|
-  |**_12906_**|	[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|	Lv. 1|	`자료 구조`|	[1_같은숫자는싫어.py](./[PGS]/자료구조/1_같은숫자는싫어.py)|	00:02:50.30|	✅|
-
+  |**_161990_**|	[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|	Lv. 1|	`Implementation`|	[바탕화면 정리.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BProgrammers%5D/Implementation/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4.md)|	00:00:00.00|	✅|
+  |**_12951_**|	[JadenCase_문자열만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|	Lv. 2|	`String`|	[JadenCase_문자열만들기.md](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|	00:02:50.30|	✅|
 </details>
 
 
-
-### [BOJ] 백준
-
-<details>
-	<summary>문제 풀이 모음집</summary>
-  </br>
-	
-  |코드 번호|이름|난이도|풀이 유형|풀이 코드|풀이 시간|상태|
-  |:------:|:------|:------:|:------|:------|:------|:------:|
-  |**_18258_**|	[큐2](https://www.acmicpc.net/problem/18258)|	실버 4|	`자료 구조`|	[18258_큐2.py](./[BOJ]/자료구조/18258_큐2.py)|	00:10:00.00|	✅|
-  |**_10828_**|	[스택](https://www.acmicpc.net/problem/10828)|	실버 4|	`자료 구조`|	[10828_스택.py](./[BOJ]/자료구조/10828_스택.py)|	00:05:36.22|	✅|
-  |**_1927_**|	★ [최소 힙](https://www.acmicpc.net/problem/1927)|	실버 2|	`자료 구조`|	[1927_최소힙.py](./[BOJ]/자료구조/1927_최소힙.py)|	00:04:39.75|	✅|
-  |**_21922_**|	[학부 연구생 민상](https://www.acmicpc.net/problem/21922)|	골드 5|	`시뮬레이션`|	[21922_학부연구생민상.py](./[BOJ]/시뮬레이션/21922_학부연구생민상.py)|	01:07:49.42|	✅|
-  |**_14503_**|	[로봇 청소기](https://www.acmicpc.net/problem/14503)|	골드 5|	`시뮬레이션`|	[14503_로봇청소기.py](./[BOJ]/시뮬레이션/14503_로봇청소기.py)|	00:26:31.48|	✅|
-  |**_19236_**|	★ [청소년 상어](https://www.acmicpc.net/problem/19236)|	골드 1|	`시뮬레이션`|	[19236_청소년상어.py](./[BOJ]/시뮬레이션/19236_청소년상어.py)|	01:53:56|	✅|
-  |**_2529_**|	[부등호](https://www.acmicpc.net/problem/2529)|	실버 1|	`백 트래킹`|	[2529_부등호.py](./[BOJ]/백트래킹/2529_부등호.py)|	00:35:18.00|	✔️|
-  |**_15686_**|	[치킨 배달](https://www.acmicpc.net/problem/15686)|	골드 5|	`백 트래킹`|	[15686_치킨배달.py](./[BOJ]/백트래킹/15686_치킨배달.py)|	01:13:04.00|	✔️|
-  |**_9663_**|	★ [N-Queens](https://www.acmicpc.net/problem/9663)|	골드 4|	`백 트래킹`|	[9663_NQueens.py](./[BOJ]/백트래킹/9663_NQueens.py)|	00:54:16.97|	✅|
-  |**_1003_**|	[피보나치 함수](https://www.acmicpc.net/problem/1003)|	실버 3|	`동적 프로그래밍`|	[1003_피보나치함수.py](./[BOJ]/동적프로그래밍/1003_피보나치함수.py)|	00:10:45.00|	✅|
-  |**_11726_**|	[2xn 타일링](https://www.acmicpc.net/problem/11726)|	실버 3|	`동적 프로그래밍`|	[11726_2xn타일링.py](./[BOJ]/동적프로그래밍/11726_2xn타일링.py)|	00:10:56.31|	✅|
-  |**_1912_**|	★ [연속 합](https://www.acmicpc.net/problem/1912)|	실버 2|	`동적 프로그래밍`|	[1912_연속합.py](./[BOJ]/동적프로그래밍/1912_연속합.py)|	00:17:34.18|	✔️|
-  |**_11053_**|	★ [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|	실버 2|	`동적 프로그래밍`|	[11053_가장긴증가하는부분수열.py](./[BOJ]/동적프로그래밍/11053_가장긴증가하는부분수열.py)|	00:18:52.10|	✔️|
-  |**_9251_**|	★ [LCS](https://www.acmicpc.net/problem/9251)|	골드 5|	`동적 프로그래밍`|	[9251_LCS.py](./[BOJ]/동적프로그래밍/9251_LCS.py)|	00:47:57.00|	✔️|
-  |**_12865_**|	★ [평범한 배낭](https://www.acmicpc.net/problem/12865)|	골드 5|	`동적 프로그래밍`|	[12865_평범한배낭.py](./[BOJ]/동적프로그래밍/12865_평범한배낭.py)|	01:31:24.35|	✔️|
-  |**_12852_**|	★ [1로 만들기 2](https://www.acmicpc.net/problem/12852)|	골드 5|	`동적 프로그래밍`|	[12852_1로만들기2.py](./[BOJ]/동적프로그래밍/12852_1로만들기2.py)|	00:38:30.09|	✅|
-  |**_15486_**|	★ [퇴사2](https://www.acmicpc.net/problem/15486)|	골드 5|	`동적 프로그래밍`|	[15486_퇴사2.py](./[BOJ]/동적프로그래밍/15486_퇴사2.py)|	00:41:32.01|	✔️|
-  |**_1018_**|	[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|	실버 4|	`완전 탐색`|	[1018_체스판다시칠하기.py](./[BOJ]/완전탐색/1018_체스판다시칠하기.py)|	00:16:59.00|	✅|
-  |**_1051_**|	[숫자 정사각형](https://www.acmicpc.net/problem/1051)|	실버 3|	`완전 탐색`|	[1051_숫자정사각형.py](./[BOJ]/완전탐색/1051_숫자정사각형.py)|	00:25:18.00|	✅|
-  |**_2615_**|	★ [오목](https://www.acmicpc.net/problem/2529)|	실버 1|	`완전 탐색`|	[2615_오목.py](./[BOJ]/완전탐색/2615_오목.py)|	01:06:54.00|	✅|
-  |**_2776_**|	[암기왕](https://www.acmicpc.net/problem/2776)|	실버 4|	`이분 탐색`|	[2776_암기왕.py](./[BOJ]/이분탐색/2776_암기왕.py)|	00:10:46.00|	✅|
-  |**_11663_**|	[선분위의 점](https://www.acmicpc.net/problem/11663)|	실버 3|	`이분 탐색`|	[11663_선분위의점.py](./[BOJ]/이분탐색/11663_선분위의점.py)|	00:26:40.00|	✅|
-  |**_1654_**|	[랜선자르기](https://www.acmicpc.net/problem/1654)|	실버 2|	`이분 탐색`|	[1654_랜선자르기.py](./[BOJ]/이분탐색/1654_랜선자르기.py)|	00:17:01.00|	✅|
-  |**_2343_**|	[기타 레슨](https://www.acmicpc.net/problem/2343)|	실버 1|	`이분 탐색`|	[2343_기타레슨.py](./[BOJ]/이분탐색/2343_기타레슨.py)|	00:24:06.00|	✅|
-  |**_17503_**|	★ [맥주 축제](https://www.acmicpc.net/problem/17503)|	실버 1|	`이분 탐색`|	[17503_맥주축제.py](./[BOJ]/이분탐색/17503_맥주축제.py)|	00:54:04.00|	✔️|
-  |**_22871_**|	★ [징검다리 건너기](https://www.acmicpc.net/problem/22871)|	실버 1|	`이분 탐색`|	[22871_징검다리건너기.py](./[BOJ]/이분탐색/22871_징검다리건너기.py)|	01:13:16.57|	✔️|
-  |**_1450_**|	★ [냅색 문제](https://www.acmicpc.net/problem/1450)|	골드 1|	`이분 탐색`|	[1450_냅섹문제.py](./[BOJ]/이분탐색/1450_냅섹문제.py)|	00:44:10.57|	✔️|
-  |**_2470_**|	[두 용액](https://www.acmicpc.net/problem/2470)|	골드 5|	`투 포인터`|	[2470_두용액.py](./[BOJ]/투포인터/2470_두용액.py)|	00:29:08.00|	✅|
-  |**_1260_**|	[DFS와 BFS](https://www.acmicpc.net/problem/1260)|	실버 2|	`그래프`|	[1260_DFS와BFS.py](./[BOJ]/그래프/1260_DFS와BFS.py)|	00:29:17.00|	✅|
-  |**_1012_**|	[유기농 배추](https://www.acmicpc.net/problem/1012)|	실버 2|	`그래프`|	[1012_유기농배추.py](./[BOJ]/그래프/1012_유기농배추.py)|	00:07:48.38|	✅|
-  |**_1697_**|	[숨바꼭질](https://www.acmicpc.net/problem/1697)|	실버 1|	`그래프`|	[1697_숨바꼭질.py](./[BOJ]/그래프/1697_숨바꼭질.py)|	00:31:22.00|	✅|
-  |**_2667_**|	[단지 번호 붙이기](https://www.acmicpc.net/problem/2667)|	실버 1|	`그래프`|	[2667_단지번호붙이기.py](./[BOJ]/그래프/2667_단지번호붙이기.py)|	00:23:30.00| ✅|
-  |**_1325_**|	[효율적인 해킹](https://www.acmicpc.net/problem/1325)|	실버 1|	`그래프`|	[1325_효율적인해킹.py](./[BOJ]/그래프/1325_효율적인해킹.py)|	00:19:50.00|	✅|
-  |**_1707_**|	[이분 그래프](https://www.acmicpc.net/problem/1707)|	골드 4|	`그래프`|	[1707_이분그래프.py](./[BOJ]/그래프/1707_이분그래프.py)|	00:43:30.00|	✔️|
-  |**_2573_**|	[빙산](https://www.acmicpc.net/problem/2573)|	골드 4|	`그래프`|	[2573_빙산.py](./[BOJ]/그래프/2573_빙산.py)|	00:19:26.03|	✅|
-  |**_10282_**|	★ [해킹](https://www.acmicpc.net/problem/10282)|	골드 4|	`그래프`|	[10282_해킹.py](./[BOJ]/그래프/10282_해킹.py)|	00:10:28.93|	✅|
-  |**_1753_**|	★ [최단경로](https://www.acmicpc.net/problem/1753)|	골드 4|	`그래프`|	[1753_최단경로.py](./[BOJ]/그래프/1753_최단경로.py)|	00:20:07.78|	✅|
-  |**_16118_**|	★ [달빛 여우](https://www.acmicpc.net/problem/16118)|	골드 1|	`그래프`|	[16118_달빛여우.py](./[BOJ]/그래프/16118_달빛여우.py)|	00:55:37.00|	✔️|
-  |**_31464_**|	★ [초콜릿 괴도 코코 (Sweet)](https://www.acmicpc.net/problem/31464)|	골드 2|	`그래프`|	[31464_초콜릿괴도코코.py](./[BOJ]/그래프/31464_초콜릿괴도코코.py)|	01:10:07.00|	✔️|
-  |**_6497_**|	★ [전력난](https://www.acmicpc.net/problem/6497)|	골드 4|	`그래프`|	[6497_전력난.py](./[BOJ]/그래프/6497_전력난.py)|	00:32:35.00|	✔️|
-  |**_27961_**|	[고양이는 많을수록 좋다](https://www.acmicpc.net/problem/27961)|	브론즈 1|	`그리디`|	[27961_고양이는많을수록좋다.py](./[BOJ]/그리디/27961_고양이는많을수록좋다.py)|	00:09:23.00|	✅|
-  |**_11399_**|	[ATM](https://www.acmicpc.net/problem/11399)|	실버 4|	`그리디`|	[11399_ATM.py](./[BOJ]/그리디/11399_ATM.py)|	00:15:18.00|	✅|
-  |**_12933_**|	[오리](https://www.acmicpc.net/problem/12933)|	실버 2|	`그리디`|	[12933_오리.py](./[BOJ]/그리디/12933_오리.py)|	00:35:52.00|	✔️|
-  |**_1946_**|	[신입 사원](https://www.acmicpc.net/problem/1946)|	실버 1|	`그리디`|	[1946_신입사원.py](./[BOJ]/그리디/1946_신입사원.py)|	00:15:40.00|	✅|
-  |**_1931_**|	★ [회의실 배정](https://www.acmicpc.net/problem/1931)|	골드 5|	`그리디`|	[1931_회의실배정.py](./[BOJ]/그리디/1931_회의실배정.py)|	00:08:39.91|	✅|
-  |**_19598_**|	★ [최소 회의실 개수](https://www.acmicpc.net/problem/19598)|	골드 5|	`그리디`|	[19598_최소회의실개수.py](./[BOJ]/그리디/19598_최소회의실개수.py)|	01:15:27.00|	✔️|
-  |**_1781_**|	★ [컵라면](https://www.acmicpc.net/problem/1781)|	골드 2|	`그리디`|	[1781_컵라면.py](./[BOJ]/그리디/1781_컵라면.py)|	00:23:03.00|	✅|
-</details>
 
 
 
