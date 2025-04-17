@@ -21,8 +21,8 @@
 	
   |코드 번호|이름|난이도|풀이 유형|풀이 코드|풀이 시간|상태|
   |:------:|:------|:------:|:------|:------|:------|:------:|
-  |**_14495_**|	[피보나치 비스무리한 수열](https://www.acmicpc.net/problem/14495/)|	실버 4|	`Dynamic Programming`|	[14495_피보나치_비스무리한_수열.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/14495_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EB%B9%84%EC%8A%A4%EB%AC%B4%EB%A6%AC%ED%95%9C%20%EC%88%98%EC%97%B4.md)|	00:10:00.00|	✅|
-  |**_17484_**|	[진우의 달 여행](https://www.acmicpc.net/problem/17484/)|	실버 3|	`Dynamic Programming`|	[17484_진우의 달 여행.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/17484_%EC%A7%84%EC%9A%B0%EC%9D%98%20%EB%8B%AC%20%EC%97%AC%ED%96%89.md)|	00:45:00|	✔️|
+  |**_14495_**|	[피보나치 비스무리한 수열](https://boj.kr/14495)|	실버 4|	`Dynamic Programming`|	[14495_피보나치_비스무리한_수열.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/14495_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EB%B9%84%EC%8A%A4%EB%AC%B4%EB%A6%AC%ED%95%9C%20%EC%88%98%EC%97%B4.md)|	00:10:00.00|	✅|
+  |**_17484_**|	[진우의 달 여행](https:/boj.kr/17484)|	실버 3|	`Dynamic Programming`|	[17484_진우의 달 여행.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/17484_%EC%A7%84%EC%9A%B0%EC%9D%98%20%EB%8B%AC%20%EC%97%AC%ED%96%89.md)|	00:45:00|	✔️|
 </details>
 
 
