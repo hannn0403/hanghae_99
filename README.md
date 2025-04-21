@@ -46,7 +46,7 @@
   |:------:|:------|:------:|:------|:------|:------|:------:|
   |**_161990_**|	[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|	Lv. 1|	`Implementation`|	[바탕화면 정리.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BProgrammers%5D/Implementation/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4.md)|	00:00:00.00|	✅|
   |**_12951_**|	[JadenCase_문자열만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|	Lv. 2|	`String`|	[JadenCase_문자열만들기.md](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|	00:02:50.30|	✅|
-  |**_72420_**|	[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|	Lv. 1|	`String`|	[신규 아이디 추천.md](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|	00:24:01.00|	✅|
+  |**_72420_**|	[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|	Lv. 1|	`String`|	[신규 아이디 추천.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BProgrammers%5D/String/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.md)|	00:24:01.00|	✅|
 </details>
 
 
