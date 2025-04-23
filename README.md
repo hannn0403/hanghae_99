@@ -31,7 +31,8 @@
   |**_2559_**|	[수열](https://www.acmicpc.net/problem/2559)|	실버 3|	`String`|	[2559_수열.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/two_pointer/2559_%EC%88%98%EC%97%B4.md)|	00:10:00.00|	✅|
   |**_11660_**|	[구간합구하기](https://www.acmicpc.net/problem/11660)|	실버 1|	`Prefix Sum`|	[11660_구간 합 구하기 5.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Prefix%20Sum/11660_%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%205.py)|	00:00:00.00|	✔️|
   |**_17271_**|	[리그 오브 레전설](https://www.acmicpc.net/problem/17271)|	실버 3|	`DP`|	[17271_리그 오브 레전설.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/17271_%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EC%84%A4.md)|	00:12:06.00|	✅|
-  |**_18126_**|	[너구리 구구](https://www.acmicpc.net/problem/18126)|	실버 2|	`BFS`|	[18126_너구리 구.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/BFS/%EB%84%88%EA%B5%AC%EB%A6%AC%20%EA%B5%AC%EA%B5%AC.md)|	00:55:18.00|	✅|
+  |**_18126_**|	[너구리 구구](https://www.acmicpc.net/problem/18126)|	실버 2|	`BFS`|	[18126_너구리 구구.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/BFS/%EB%84%88%EA%B5%AC%EB%A6%AC%20%EA%B5%AC%EA%B5%AC.md)|	00:55:18.00|	✅|
+  |**_27971_**|	[강아지 많을수록](https://www.acmicpc.net/problem/18126)|	실버 1|	`DP`|	[27971_강아지는 많을수록 좋다.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/27971_%EA%B0%95%EC%95%84%EC%A7%80%EB%8A%94%20%EB%A7%8E%EC%9D%84%EC%88%98%EB%A1%9D%20%EC%A2%8B%EB%8B%A4.md)|	00:52:18.00|	✔️|
   
 </details>
 
