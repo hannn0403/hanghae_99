@@ -33,6 +33,7 @@
   |**_17271_**|	[리그 오브 레전설](https://www.acmicpc.net/problem/17271)|	실버 3|	`DP`|	[17271_리그 오브 레전설.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/17271_%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EC%84%A4.md)|	00:12:06.00|	✅|
   |**_18126_**|	[너구리 구구](https://www.acmicpc.net/problem/18126)|	실버 2|	`BFS`|	[18126_너구리 구구.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/BFS/%EB%84%88%EA%B5%AC%EB%A6%AC%20%EA%B5%AC%EA%B5%AC.md)|	00:55:18.00|	✅|
   |**_27971_**|	[강아지 많을수록](https://www.acmicpc.net/problem/18126)|	실버 1|	`DP`|	[27971_강아지는 많을수록 좋다.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/27971_%EA%B0%95%EC%95%84%EC%A7%80%EB%8A%94%20%EB%A7%8E%EC%9D%84%EC%88%98%EB%A1%9D%20%EC%A2%8B%EB%8B%A4.md)|	00:52:18.00|	✔️|
+  |**_28069_**|	[김밥천국의 계단](https://www.acmicpc.net/problem/28069)|	골드 5|	`DP`|	[28069_김밥천국의 계단.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/28069_%EA%B9%80%EB%B0%A5%EC%B2%9C%EA%B5%AD%EC%9D%98%20%EA%B3%84%EB%8B%A8.md)|	00:43:22.00|	✔️|
   
 </details>
 
