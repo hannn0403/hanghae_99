@@ -33,3 +33,6 @@ for i in range(len(arr)):
         elif arr[s] + arr[e] > num:
             e -= 1
 print(good_num)
+
+
+# 이 문제에서는 배열 안에 들어있는 수가 양수일 것이라는 가정을 하면 안된다. 음수 및 0인 경우에 대해서 고려해야 한다.
