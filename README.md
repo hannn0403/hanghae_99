@@ -31,6 +31,7 @@
   |**_11047_**|	[동전 0](https://www.acmicpc.net/problem/11047)|	실버 4|	`Greedy`|	[11047_동전0.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Greedy/11047_%EB%8F%99%EC%A0%840.py)|	00:05:00|	✅|
   |**_1783_**|	[병든 나이](https://www.acmicpc.net/problem/2156)|	실버 3|	`Greedy`|	[병든 나이트.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Greedy/1783_%EB%B3%91%EB%93%A0%EB%82%98%EC%9D%B4%ED%8A%B8.md)|	00:45:00|	✔️|
   |**_2437_**|	[저울](https://www.acmicpc.net/problem/2156)|	실버 1|	`Greedy`|	[2437_저울.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Greedy/2437_%EC%A0%80%EC%9A%B8.md)|	00:45:00|	✔️|
+  |**_1931_**|	[회의실배정](https://www.acmicpc.net/problem/1931)|	골드 5|	`Greedy`|	[1931_회의실배정.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Greedy/1931_%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95.py)|	00:10:00|	✅|
   |**_1715_**|	[카드정렬하기](https://www.acmicpc.net/problem/1715)|	골드 4|	`Greedy`|	[1715_카드정렬하기.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Greedy/1715_%EC%B9%B4%EB%93%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)|	00:15:00|	✅|
   |**_1744_**|	[수묶기](https://www.acmicpc.net/problem/1744)|	골드 4|	`Greedy`|	[1744_수묶기.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Greedy/1744_%EC%88%98%EB%AC%B6%EA%B8%B0.py)|	00:10:00|	✅|
   |**_1874_**|	[스택수열](https://www.acmicpc.net/problem/1874)|	실버 2|	`Stack`|	[1874_스택수열.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Stack/1874_%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4.py)|	00:20:00.00|	✅|
