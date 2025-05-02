@@ -1,3 +1,5 @@
+# 주의! Python으로 하면 시간초과가 나고, PyPy3로 제출해야 된다고 한다.
+
 import sys
 from collections import deque
 
