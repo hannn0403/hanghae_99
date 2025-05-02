@@ -21,6 +21,7 @@
 	
   |코드 번호|이름|난이도|풀이 유형|풀이 코드|풀이 시간|상태|
   |:------:|:------|:------:|:------|:------|:------|:------:|
+  |**_1920_**|	[수찾기](https://www.acmicpc.net/problem/1920)|	실버 4|	`Binary Search`| [1920_수찾기.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Binary%20Search%20/1920_%EC%88%98%EC%B0%BE%EA%B8%B0.py)|	00:15:00.00|	✅|
   |**_2178_**|	[미로탐색](https://www.acmicpc.net/problem/2178)|	실버 1|	`BFS`|	[2178_미로탐색.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/BFS/2178_%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89.py)|	00:05:00.00|	✅|
   |**_11724_**|	[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|	실버 2|	`DFS`|	[11724_연결 요소의 개수.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/DFS/11724_%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EA%B0%9C%EC%88%98.py)|	00:20:00.00|	✅|
   |**_1260_**|	[★ BFS와 DFS](https://www.acmicpc.net/problem/1260)|	실버 2|	`DFS`|	[1260_BFS와 DFS.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/DFS/1260_BFS%EC%99%80DFS.py)|	00:30:00.00|	✔️|
