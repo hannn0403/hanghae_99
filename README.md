@@ -21,13 +21,17 @@
 	
   |코드 번호|이름|난이도|풀이 유형|풀이 코드|풀이 시간|상태|
   |:------:|:------|:------:|:------|:------|:------|:------:|
-  |**_1920_**|	[수찾기](https://www.acmicpc.net/problem/1920)|	실버 4|	`Binary Search`| [1920_수찾기.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Binary%20Search%20/1920_%EC%88%98%EC%B0%BE%EA%B8%B0.py)|	00:15:00.00|	✅|
-  |**_2178_**|	[미로탐색](https://www.acmicpc.net/problem/2178)|	실버 1|	`BFS`|	[2178_미로탐색.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/BFS/2178_%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89.py)|	00:05:00.00|	✅|
+  |**_1920_**|	[수찾기](https://www.acmicpc.net/problem/1920)		|	실버 4|	`Binary Search`| [1920_수찾기.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Binary%20Search%20/1920_%EC%88%98%EC%B0%BE%EA%B8%B0.py)|	00:15:00.00|	✅|
+  |**_18126_**|	[너구리 구구](https://www.acmicpc.net/problem/18126)	|	실버 2|	`BFS`|	[18126_너구리 구구.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/BFS/%EB%84%88%EA%B5%AC%EB%A6%AC%20%EA%B5%AC%EA%B5%AC.md)|	00:55:18.00|	✅|
+  |**_2178_**|	[미로탐색](https://www.acmicpc.net/problem/2178)		|	실버 1|	`BFS`|	[2178_미로탐색.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/BFS/2178_%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89.py)|	00:05:00.00|	✅|
   |**_11724_**|	[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|	실버 2|	`DFS`|	[11724_연결 요소의 개수.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/DFS/11724_%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EA%B0%9C%EC%88%98.py)|	00:20:00.00|	✅|
-  |**_1260_**|	[★ BFS와 DFS](https://www.acmicpc.net/problem/1260)|	실버 2|	`DFS`|	[1260_BFS와 DFS.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/DFS/1260_BFS%EC%99%80DFS.py)|	00:30:00.00|	✔️|
+  |**_1260_**|	[★ BFS와 DFS](https://www.acmicpc.net/problem/1260)	|	실버 2|	`DFS`|	[1260_BFS와 DFS.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/DFS/1260_BFS%EC%99%80DFS.py)|	00:30:00.00|	✔️|
   |**_14495_**|	[피보나치 비스무리한 수열](https://www.acmicpc.net/problem/14495)|	실버 4|	`DP`|	[14495_피보나치_비스무리한_수열.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/14495_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EB%B9%84%EC%8A%A4%EB%AC%B4%EB%A6%AC%ED%95%9C%20%EC%88%98%EC%97%B4.md)|	00:10:00.00|	✅|
+  |**_17271_**|	[리그 오브 레전설](https://www.acmicpc.net/problem/17271)|	실버 3|	`DP`|	[17271_리그 오브 레전설.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/17271_%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EC%84%A4.md)|	00:12:06.00|	✅|
   |**_17484_**|	[진우의 달 여행](https://www.acmicpc.net/problem/17484)|	실버 3|	`DP`|	[17484_진우의 달 여행.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/17484_%EC%A7%84%EC%9A%B0%EC%9D%98%20%EB%8B%AC%20%EC%97%AC%ED%96%89.md)|	00:45:00|	✔️|
   |**_2156_**|	[포도주 시식](https://www.acmicpc.net/problem/2156)|	실버 1|	`DP`|	[2156_포도주 시식.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/2156_%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D.md)|	00:45:00|	✔️|
+  |**_27971_**|	[강아지 많을수록](https://www.acmicpc.net/problem/18126)|	실버 1|	`DP`|	[27971_강아지는 많을수록 좋다.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/27971_%EA%B0%95%EC%95%84%EC%A7%80%EB%8A%94%20%EB%A7%8E%EC%9D%84%EC%88%98%EB%A1%9D%20%EC%A2%8B%EB%8B%A4.md)|	00:52:18.00|	✔️|
+  |**_28069_**|	[김밥천국의 계단](https://www.acmicpc.net/problem/28069)|	골드 5|	`DP`|	[28069_김밥천국의 계단.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/28069_%EA%B9%80%EB%B0%A5%EC%B2%9C%EA%B5%AD%EC%9D%98%20%EA%B3%84%EB%8B%A8.md)|	00:43:22.00|	✔️|
   |**_11047_**|	[동전 0](https://www.acmicpc.net/problem/11047)|	실버 4|	`Greedy`|	[11047_동전0.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Greedy/11047_%EB%8F%99%EC%A0%840.py)|	00:05:00|	✅|
   |**_1783_**|	[병든 나이](https://www.acmicpc.net/problem/2156)|	실버 3|	`Greedy`|	[병든 나이트.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Greedy/1783_%EB%B3%91%EB%93%A0%EB%82%98%EC%9D%B4%ED%8A%B8.md)|	00:45:00|	✔️|
   |**_1541_**|	[잃어버린괄호](https://www.acmicpc.net/problem/1541)|	실버 2|	`Greedy`|	[1541_잃어버린괄호.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Greedy/1541_%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%EA%B4%84%ED%98%B8.py)|	00:20:00|	✅|
@@ -45,15 +49,12 @@
   |**_11660_**|	[구간합구하기 5](https://www.acmicpc.net/problem/11660)|	실버 1|	`Prefix Sum`|	[11660_구간 합 구하기 5.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Prefix%20Sum/11660_%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%205.py)|	00:10:00.00|	✅|
   |**_10986_**|	[나머지합구하기](https://www.acmicpc.net/problem/10986)|	골드 3|	`Prefix Sum`|	[10986_나머지 합 구하기.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Prefix%20Sum/10986_%EB%82%98%EB%A8%B8%EC%A7%80%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|	00:10:00.00|	✔️|
   |**_2018_**|	[수들의 합5](https://www.acmicpc.net/problem/2018)|	실버 5|	`Two Pointer`|	[2018_수들의 합5.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/two_pointer/2018_%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%205.py)|	00:10:00.00|	✅|
+  |**_12891_**|	[DNA 비밀번호](https://www.acmicpc.net/problem/12891)|	실버 2|	`Sliding Window`|	[12891_DNA비밀번호.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/sliding_window/12891_DNA%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.py)|	00:40:00.00|	✅|
+  |**_11003_**|	[★ 최솟값구하기](https://www.acmicpc.net/problem/11003)|	플레 5|	`Sliding Window`|	[11003_최솟값구하기.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/sliding_window/11003_%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B5%AC%ED%95%98%EA%B8%B0.py)|	00:40:00.00|	✔️|
   |**_2559_**|	[수열](https://www.acmicpc.net/problem/2559)|	실버 3|	`Two Pointer`|	[2559_수열.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/two_pointer/2559_%EC%88%98%EC%97%B4.md)|	00:10:00.00|	✅|
   |**_1940_**|	[주몽](https://www.acmicpc.net/problem/1940)|	실버 4|	`Two Pointer`|	[1940_주몽.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/two_pointer/1940_%EC%A3%BC%EB%AA%BD.py)|	00:05:00.00|	✅|
   |**_1253_**|	[좋다](https://www.acmicpc.net/problem/1253)|	골드 4|	`Two Pointer`|	[1253_좋다.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/two_pointer/1253_%EC%A2%8B%EB%8B%A4.py)|	00:15:00.00|	✔️|
-  |**_12891_**|	[DNA 비밀번호](https://www.acmicpc.net/problem/12891)|	실버 2|	`Sliding Window`|	[12891_DNA비밀번호.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/sliding_window/12891_DNA%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.py)|	00:40:00.00|	✅|
-  |**_11003_**|	[★ 최솟값구하기](https://www.acmicpc.net/problem/11003)|	플레 5|	`Sliding Window`|	[11003_최솟값구하기.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/sliding_window/11003_%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B5%AC%ED%95%98%EA%B8%B0.py)|	00:40:00.00|	✔️|
-  |**_17271_**|	[리그 오브 레전설](https://www.acmicpc.net/problem/17271)|	실버 3|	`DP`|	[17271_리그 오브 레전설.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/17271_%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EC%84%A4.md)|	00:12:06.00|	✅|
-  |**_18126_**|	[너구리 구구](https://www.acmicpc.net/problem/18126)|	실버 2|	`BFS`|	[18126_너구리 구구.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/BFS/%EB%84%88%EA%B5%AC%EB%A6%AC%20%EA%B5%AC%EA%B5%AC.md)|	00:55:18.00|	✅|
-  |**_27971_**|	[강아지 많을수록](https://www.acmicpc.net/problem/18126)|	실버 1|	`DP`|	[27971_강아지는 많을수록 좋다.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/27971_%EA%B0%95%EC%95%84%EC%A7%80%EB%8A%94%20%EB%A7%8E%EC%9D%84%EC%88%98%EB%A1%9D%20%EC%A2%8B%EB%8B%A4.md)|	00:52:18.00|	✔️|
-  |**_28069_**|	[김밥천국의 계단](https://www.acmicpc.net/problem/28069)|	골드 5|	`DP`|	[28069_김밥천국의 계단.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Dynamic%20Programming/28069_%EA%B9%80%EB%B0%A5%EC%B2%9C%EA%B5%AD%EC%9D%98%20%EA%B3%84%EB%8B%A8.md)|	00:43:22.00|	✔️|
+  
   
 </details>
 
