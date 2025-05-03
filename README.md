@@ -38,6 +38,7 @@
   |**_1707_**|	[★이분그래프](https://www.acmicpc.net/problem/1707)|	골드 4|	`Graph`|	[1707_이분그래프.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/1707_%EC%9D%B4%EB%B6%84%EA%B7%B8%EB%9E%98%ED%94%84.py)|	00:40:00|	✔️|
   |**_2251_**|	[★물통](https://www.acmicpc.net/problem/2251)|	골드 4|	`Graph`|	[2251_물통.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/2251_%EB%AC%BC%ED%86%B5.py)|	00:40:00|	✔️|
   |**_1976_**|	[여행가자](https://www.acmicpc.net/problem/1976)|	골드 4|	`Graph`|	[1976_여행가자.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/1976_%EC%97%AC%ED%96%89%EA%B0%80%EC%9E%90.py)|	00:20:00|	✅|
+  |**_1753_**|	[★최단경로](https://www.acmicpc.net/problem/1753)|	골드 4|	`Graph`|	[1753_최단경로.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)|	00:30:00|	✔️|
   |**_1043_**|	[거짓말](https://www.acmicpc.net/problem/1043)|	골드 4|	`Graph`|	[1043_거짓말.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/1043_%EA%B1%B0%EC%A7%93%EB%A7%90.py)|	00:20:00|	✅|
   |**_2252_**|	[줄세우기](https://www.acmicpc.net/problem/2252)|	골드 3|	`Graph`|	[2252_줄세우기.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/2252_%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0.py)|	00:10:00|	✅|
   |**_1516_**|	[개임개발](https://www.acmicpc.net/problem/1516)|	골드 3|	`Graph`|	[1516_게임개발.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/1516_%EA%B2%8C%EC%9E%84%EA%B0%9C%EB%B0%9C.py)|	00:25:00|	✅|
