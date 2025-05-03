@@ -40,6 +40,7 @@
   |**_1976_**|	[여행가자](https://www.acmicpc.net/problem/1976)|	골드 4|	`Graph`|	[1976_여행가자.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/1976_%EC%97%AC%ED%96%89%EA%B0%80%EC%9E%90.py)|	00:20:00|	✅|
   |**_1043_**|	[거짓말](https://www.acmicpc.net/problem/1043)|	골드 4|	`Graph`|	[1043_거짓말.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/1043_%EA%B1%B0%EC%A7%93%EB%A7%90.py)|	00:20:00|	✅|
   |**_2252_**|	[줄세우기](https://www.acmicpc.net/problem/2252)|	골드 3|	`Graph`|	[2252_줄세우기.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/2252_%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0.py)|	00:10:00|	✅|
+  |**_1516_**|	[개임개발](https://www.acmicpc.net/problem/1516)|	골드 3|	`Graph`|	[1516_게임개발.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/1516_%EA%B2%8C%EC%9E%84%EA%B0%9C%EB%B0%9C.py)|	00:25:00|	✅|
   |**_11047_**|	[동전 0](https://www.acmicpc.net/problem/11047)|	실버 4|	`Greedy`|	[11047_동전0.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Greedy/11047_%EB%8F%99%EC%A0%840.py)|	00:05:00|	✅|
   |**_1783_**|	[병든 나이](https://www.acmicpc.net/problem/2156)|	실버 3|	`Greedy`|	[병든 나이트.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Greedy/1783_%EB%B3%91%EB%93%A0%EB%82%98%EC%9D%B4%ED%8A%B8.md)|	00:45:00|	✔️|
   |**_1541_**|	[잃어버린괄호](https://www.acmicpc.net/problem/1541)|	실버 2|	`Greedy`|	[1541_잃어버린괄호.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Greedy/1541_%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%EA%B4%84%ED%98%B8.py)|	00:20:00|	✅|
