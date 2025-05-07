@@ -83,7 +83,7 @@
   |**_11438_**|	[★LCA2](https://www.acmicpc.net/problem/11438)|	플레 5|	`Tree`|	[11438_LCA2.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Tree/11438_LCA2.py)|	00:43:00.00|	✔️|
   |**_2559_**|	[수열](https://www.acmicpc.net/problem/2559)|	실버 3|	`Two Pointer`|	[2559_수열.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/two_pointer/2559_%EC%88%98%EC%97%B4.md)|	00:10:00.00|	✅|
   |**_1940_**|	[주몽](https://www.acmicpc.net/problem/1940)|	실버 4|	`Two Pointer`|	[1940_주몽.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/two_pointer/1940_%EC%A3%BC%EB%AA%BD.py)|	00:05:00.00|	✅|
-  |**_1253_**|	[좋다](https://www.acmicpc.net/problem/1253)|	골드 4|	`Two Pointer`|	[1253_좋다.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/two_pointer/1253_%EC%A2%8B%EB%8B%A4.py)|	00:15:00.00|	✔️|
+  |**_1253_**|	[★좋다](https://www.acmicpc.net/problem/1253)|	골드 4|	`Two Pointer`|	[1253_좋다.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/two_pointer/1253_%EC%A2%8B%EB%8B%A4.py)|	00:15:00.00|	✔️|
   
   
 </details>
