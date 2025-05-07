@@ -1,20 +1,31 @@
-from collections import deque 
-import sys 
+import sys
+from collections import deque
 
-input = sys.stdin.readline 
+input = sys.stdin.readline
 
-N, L = map(int, input().split()) 
-mydeque = deque() 
-now = list(map(int, input().split())) 
+# 값 입력 받기
+N, L = map(int, input().split())
 
-for i in range(N): 
-    while mydeque and mydeque[-1][0] > now[i]: 
-        mydeque.pop()
-    mydeque.append((now[i], i)) 
+arr = list(map(int, input().split()))
+queue = deque()
 
-    if mydeque[0][1] <= i - L: 
-        mydeque.popleft() 
-    print(mydeque[0][0], end=' ') 
+for i in range(len(arr)):
+    curr_num = arr[i]
 
+    # 만약 queue가 비어있다면 데이터를 일단 넣는다.
+    if not queue:
+        queue.append((curr_num, i))
 
-# 시간 복잡도를 고려하여 deque을 사용해야 한다는 발상을 해야 한다. 
+    # queue가 비어있지 않다면,
+    else:
+        # 가장 뒤의 값과 삽입하려는 값의 value를 비교하고 삽입하려는 값이 작다면 가장 뒤의 값을 뺀다.
+        # print(f"queue : {queue}")
+        while queue and queue[-1][0] > curr_num:
+            queue.pop()
+        queue.append((curr_num, i))  # 데이터 삽입
+
+    # queue의 첫 값과 방금 삽입한 데이터의 인덱스 값 비교 (L보다 크면 첫 값을 빼야 한다.)
+    while queue[0][1] <= queue[-1][1] - L:
+        queue.popleft()
+
+    print(queue[0][0], end=" ")
