@@ -3,24 +3,31 @@ import sys
 input = sys.stdin.readline
 
 N = int(input())
-A = list(map(int, input().split()))
+arr = list(map(int, input().split()))
 
 L = [0] * N
-L[0] = A[0]
-result = L[0]
+R = [0] * N
+
+L[0] = arr[0]
+R[-1] = arr[-1]
 
 for i in range(1, N):
-    L[i] = max(A[i], L[i - 1] + A[i])
-    result = max(result, L[i])
-
-R = [0] * N
-R[N - 1] = A[N - 1]
+    L[i] = max(arr[i], arr[i] + L[i - 1])
 
 for i in range(N - 2, -1, -1):
-    R[i] = max(A[i], R[i + 1] + A[i])
+    R[i] = max(arr[i], arr[i] + R[i + 1])
+
+# print(f"L : {L}")
+# print(f"R : {R}")
+
+l_max = max(L)
+r_max = max(R)
+
+one_num_out_max = float("-inf")
 
 for i in range(1, N - 1):
-    temp = L[i - 1] + R[i + 1]
-    result = max(result, temp)
+    curr_num = L[i - 1] + R[i + 1]
+    if one_num_out_max < curr_num:
+        one_num_out_max = curr_num
 
-print(result)
+print(max(l_max, r_max, one_num_out_max))
