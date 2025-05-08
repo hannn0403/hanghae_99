@@ -1,38 +1,35 @@
-import sys 
+import sys
 
-input = sys.stdin.readline 
+input = sys.stdin.readline
 
-def find(a): 
-    if arr[a] == a: 
-        return a 
-    else: 
-        arr[a] = find(arr[a]) 
+N, M = map(int, input().split())
+
+
+def find(a):
+    if arr[a] == a:
+        return arr[a]
+
+    else:
+        arr[a] = find(arr[a])
         return arr[a]
 
 
-def union(a, b): 
+def union(a, b):
     real_a = find(a)
     real_b = find(b)
-    # arr[b] = real_a 
     arr[real_b] = real_a
 
 
-n, m = map(int, input().split()) 
+arr = [i for i in range(N + 1)]
 
-arr = [i for i in range(n+1)] 
-
-for _ in range(m): 
-    # print("\n\n===================")
-    command, a, b = map(int, input().split()) 
-    if command == 0: 
-        union(a, b) 
-        # print(f"union({a}, {b})이후 arr : {arr}")
-    elif command == 1: 
-        # print(f"find({a}), find({b}) 이전 arr : {arr}")
-        real_a = find(a) 
-        real_b = find(b) 
-        # print(f"find({a}), find({b}) 이후 arr : {arr}")
-        if real_a == real_b: 
-            print('YES') 
-        else: 
-            print("NO") 
+for _ in range(M):
+    command, a, b = map(int, input().split())
+    if command == 0:
+        union(a, b)
+    elif command == 1:
+        real_a = find(a)
+        real_b = find(b)
+        if real_a == real_b:
+            print("YES")
+        else:
+            print("NO")
