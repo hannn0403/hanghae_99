@@ -51,7 +51,7 @@
   |**_1707_**|	[★이분그래프](https://www.acmicpc.net/problem/1707)|	골드 4|	`Graph`|	[1707_이분그래프.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/1707_%EC%9D%B4%EB%B6%84%EA%B7%B8%EB%9E%98%ED%94%84.py)|	00:40:00|	✔️|
   |**_2251_**|	[★물통](https://www.acmicpc.net/problem/2251)|	골드 4|	`Graph`|	[2251_물통.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/2251_%EB%AC%BC%ED%86%B5.py)|	00:40:00|	✔️|
   |**_1976_**|	[여행가자](https://www.acmicpc.net/problem/1976)|	골드 4|	`Graph`|	[1976_여행가자.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/1976_%EC%97%AC%ED%96%89%EA%B0%80%EC%9E%90.py)|	00:20:00|	✅|
-  |**_1753_**|	[★최단경로](https://www.acmicpc.net/problem/1753)|	골드 4|	`Graph`|	[1753_최단경로.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)|	00:30:00|	✔️|
+  |**_1753_**|	[최단경로](https://www.acmicpc.net/problem/1753)|	골드 4|	`Graph`|	[1753_최단경로.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)|	00:15:00|	✅|
   |**_1043_**|	[거짓말](https://www.acmicpc.net/problem/1043)|	골드 4|	`Graph`|	[1043_거짓말.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/1043_%EA%B1%B0%EC%A7%93%EB%A7%90.py)|	00:20:00|	✅|
   |**_11657_**|	[타임머신](https://www.acmicpc.net/problem/11657)|	골드 4|	`Graph`|	[11657_타임머신.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/11657_%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0.py)|	00:20:00|	✅|
   |**_1197_**|	[최소스패닝트리](https://www.acmicpc.net/problem/1197)|	골드 4|	`Graph`|	[1197_최소스패닝트리.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Graph/1197_%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC.py)|	00:10:00|	✅|
