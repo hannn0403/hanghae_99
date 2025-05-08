@@ -5,34 +5,47 @@ from collections import deque
 
 input = sys.stdin.readline
 
+
+def BFS(node):
+    visited[node] = True
+    queue = deque()
+    queue.append(node)
+    component = []
+
+    while queue:
+        node = queue.popleft()
+        component.append(node)
+
+        for next_node in adj_list[node]:
+            if not visited[next_node]:
+                visited[next_node] = True
+                queue.append(next_node)
+
+    return component
+
+
 N, M = map(int, input().split())
+adj_list = [[] for _ in range(N + 1)]
 
-A = [[] for _ in range(N+1)] 
-answer = [0] * (N+1) 
+for _ in range(M):
+    a, b = map(int, input().split())
+    adj_list[b].append(a)
 
-def BFS(v): 
-    visited = [False] * (N+1) 
-    queue = deque() 
-    queue.append(v) 
-    visited[v] =True 
+max_len = 0
+max_list = []
+visited = [False] * (N + 1)
 
-    while queue: 
-        now_Node = queue.popleft() 
-        for i in A[now_Node]: 
-            if not visited[i]: 
-                visited[i] = True 
-                answer[i] += 1 
-                queue.append(i) 
+for i in range(1, N + 1):
+    visited = [False] * (N + 1)
+    # if not visited[i]:
+    curr_list = BFS(i)
 
+    if len(curr_list) > max_len:
+        max_list = [i]
+        max_len = len(curr_list)
+    elif len(curr_list) == max_len:
+        max_list.append(i)
 
-for i in range(M): 
-    S, E = map(int, input().split()) 
-    A[S].append(E) 
-
-for i in range(1, N+1): 
-    BFS(i) 
-
-maxVal = max(answer) 
-for i in range(1, N+1): 
-    if maxVal == answer[i]: 
-        print(i, end=' ') 
+max_list.sort()
+for elem in max_list:
+    print(elem, end=" ")
