@@ -1,42 +1,65 @@
 import sys
 
-input = sys.stdin.readline 
-sys.setrecursionlimit(10000) 
+input = sys.stdin.readline
 
-A = list(input()) 
-A.pop() 
-B = list(input()) 
-B.pop() 
 
-DP = [[0 for j in range(len(B) + 1)] for i in range(len(A)+1)] 
-Path = [] 
+def print_arr(arr):
+    n, m = len(arr), len(arr[0])
+    for i in range(n):
+        for j in range(m):
+            print(f"{arr[i][j]:<3}", end=" ")
+        print()
+    print()
 
-for i in range(1, len(A)+1): 
-    for j in range(1, len(B) + 1): 
-        if A[i-1] == B[j-1]: 
-            DP[i][j] = DP[i-1][j-1] + 1 
-        else: 
-            DP[i][j] = max(DP[i-1][j], DP[i][j-1]) 
 
-print(DP[len(A)][len(B)]) 
+A = input().rstrip()
+B = input().rstrip()
 
-# LCS 구현 함수 
+dp = [[0] * len(B) for _ in range(len(A))]
 
-def getText(r,c): 
-    if r ==0 or c == 0: 
-        return 
-    
-    if A[r-1] == B[c-1]: 
-        Path.append(A[r-1]) 
-        getText(r-1, c-1) 
-    else: 
-        if DP[r-1][c] > DP[r][c-1]: 
-            getText(r-1, c) 
-        else: 
-            getText(r, c-1) 
+# 0행과 0열에 대해서 초깃값을 설정해준다.
+for i in range(len(A)):
+    # if B[0] == A[i]:
+    if B[0] in A[: i + 1]:
+        dp[i][0] = 1
 
-getText(len(A), len(B)) 
+for i in range(len(B)):
+    # if A[0] == B[i]:
+    if A[0] in B[: i + 1]:
+        dp[0][i] = 1
 
-for i in range(len(Path)-1, -1, -1): 
-    print(Path.pop(i), end='') 
-# print()
+for i in range(1, len(A)):
+    for j in range(1, len(B)):
+        if A[i] == B[j]:
+            dp[i][j] = dp[i - 1][j - 1] + 1
+        else:
+            dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
+
+# print_arr(dp)
+print(dp[-1][-1])
+
+lcs = ""
+i = len(A) - 1
+j = len(B) - 1
+
+while i >= 0 and j >= 0:
+    if dp[i][j] == 0:
+        break
+
+    if A[i] == B[j]:
+        # print(f"i ({i}) 와 j ({j})가 {A[i]}로 같으므로 LCS : {A[i] + lcs}")
+        lcs = A[i] + lcs
+        i -= 1
+        j -= 1
+    else:
+        if i == 0 and j > 0:
+            j -= 1
+        elif i > 0 and j == 0:
+            i -= 1
+        elif i > 0 and j > 0 and dp[i - 1][j] >= dp[i][j - 1]:
+            i -= 1
+        elif i > 0 and j > 0 and dp[i - 1][j] < dp[i][j - 1]:
+            j -= 1
+
+
+print(lcs)
