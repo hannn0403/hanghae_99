@@ -78,7 +78,7 @@
   |**_11003_**|	[★ 최솟값구하기](https://www.acmicpc.net/problem/11003)|	플레 5|	`Sliding Window`|	[11003_최솟값구하기.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/sliding_window/11003_%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B5%AC%ED%95%98%EA%B8%B0.py)|	00:20:00.00|	✅|
   |**_1874_**|	[스택수열](https://www.acmicpc.net/problem/1874)|	실버 2|	`Stack`|	[1874_스택수열.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Stack/1874_%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4.py)|	00:20:00.00|	✅|
   |**_10799_**|	[쇠막대기](https://www.acmicpc.net/problem/10799)|	실버 2|	`Stack`|	[10799_쇠막대기.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Stack/10799_%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0.md)|	00:10:00.00|	✅|
-  |**_17298_**|	[★오큰수](https://www.acmicpc.net/problem/17298)|	골드 4|	`Stack`|	[17298_오큰수.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Stack/17298_%EC%98%A4%ED%81%B0%EC%88%98.py)|	00:20:00.00|	✔️|
+  |**_17298_**|	[오큰수](https://www.acmicpc.net/problem/17298)|	골드 4|	`Stack`|	[17298_오큰수.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Stack/17298_%EC%98%A4%ED%81%B0%EC%88%98.py)|	00:20:00.00|	✅|
   |**_2164_**|	[카드2](https://www.acmicpc.net/problem/2164)|	실버 4|	`Stack`|	[2164_카드2.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Stack/2164_%EC%B9%B4%EB%93%9C2.py)|	00:10:00.00|	✅|
   |**_11720_**|	[숫자의 합](https://www.acmicpc.net/problem/11720)|	브론즈 4|	`String`|	[11720_숫자의합.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/String/11720_%EC%88%AB%EC%9E%90%EC%9D%98%ED%95%A9.py)|	00:05:00.00|	✅|
   |**_1546_**|	[평균](https://www.acmicpc.net/problem/1546)|	브론즈 1|	`String`|	[1546_평균.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/String/1546_%ED%8F%89%EA%B7%A0.py)|	00:05:00.00|	✅|
