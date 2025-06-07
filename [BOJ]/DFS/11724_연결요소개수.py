@@ -41,3 +41,42 @@ for i in range(1, N + 1):
 # print(f"answer list : {answer}")
 # print(f"answer len : {len(answer)}")
 print(answer)
+
+# ===============================================================================================
+import sys
+from collections import deque
+input = sys.stdin.readline
+
+N, M = map(int, input().split())
+
+con_dict = {i:[] for i in range(1, N+1)}
+visited = [False] * (N+1)
+
+for _ in range(M):
+    u, v = map(int, input().split())
+    con_dict[u].append(v)
+    con_dict[v].append(u)
+
+ans = 0
+visited_node = 0
+for i in range(1, N+1):
+    if visited[i]:
+        continue
+
+    ans += 1
+    visited[i] = True
+    queue = deque()
+    for j in con_dict[i]:
+        visited[j] = True
+        queue.append(j)
+
+    while queue:
+        curr_node = queue.pop()
+        visited[curr_node] = True
+        for x in con_dict[curr_node]:
+            if not visited[x]:
+                queue.append(x)
+
+
+
+print(ans)
