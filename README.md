@@ -22,6 +22,7 @@
   |코드 번호|이름|난이도|풀이 유형|풀이 코드|풀이 시간|상태|
   |:------:|:------|:------:|:------|:------|:------|:------:|
   |**_1920_**|	[수찾기](https://www.acmicpc.net/problem/1920)		|	실버 4|	`Binary Search`| [1920_수찾기.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Binary%20Search%20/1920_%EC%88%98%EC%B0%BE%EA%B8%B0.py)|	00:15:00.00|	✅|
+  |**_1300_**|	[★ K번째 수](https://www.acmicpc.net/problem/1300)		|	골드 2|	`Binary Search`| [1300_K번째 수.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/Binary%20Search%20/1300_K%EB%B2%88%EC%A7%B8%20%EC%88%98.py)|	00:20:00.00|	✔️|
   |**_18126_**|	[너구리 구구](https://www.acmicpc.net/problem/18126)	|	실버 2|	`BFS`|	[18126_너구리 구구.md](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/BFS/%EB%84%88%EA%B5%AC%EB%A6%AC%20%EA%B5%AC%EA%B5%AC.md)|	00:55:18.00|	✅|
   |**_2178_**|	[미로탐색](https://www.acmicpc.net/problem/2178)		|	실버 1|	`BFS`|	[2178_미로탐색.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/BFS/2178_%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89.py)|	00:25:00.00|	✔️|
   |**_1167_**|	[★ 트리의지름](https://www.acmicpc.net/problem/1167)		|	골드 2|	`BFS`|	[1167_트리의지름.py](https://github.com/hannn0403/hanghae_99/blob/main/%5BBOJ%5D/DFS/1167_%ED%8A%B8%EB%A6%AC%EC%9D%98%EC%A7%80%EB%A6%84.py)|	00:05:00.00|	✅|
