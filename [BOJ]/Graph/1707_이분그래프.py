@@ -1,48 +1,46 @@
-import sys 
-sys.setrecursionlimit(10**6)
+import sys
+from collections import deque
 
-input = sys.stdin.readline 
+input = sys.stdin.readline
 
-N = int(input()) 
-IsEven = True 
+K = int(input())
 
-def DFS(node): 
-    global IsEven 
-    visited[node] = True 
-    for i in A[node]: 
-        if not visited[i]: 
-            # 인접노드는 같은 집합이 아니므로 다른 집합으로 처리 
-            check[i] = (check[node] +1) %2 
-            # print(f"check[{i}] = (check[node] +1) %2  : {(check[node] +1) %2 }")
-            # print(f"check : {check}")
-            DFS(i) 
+for tc in range(K):
+    V, E = map(int, input().split())
+    adj_list = [[] for _ in range(V+1)]
+    visited = [False] * (V + 1)
+    bipartite = True
 
-        # 이미 방문한 노드가 현재 내 노드와 같은 집합이면 이분 그래프가 아니다. 
-        elif check[node] == check[i]: 
-            IsEven = False 
+    for _ in range(E):
+        u, v = map(int, input().split())
+        adj_list[u].append(v)
+        adj_list[v].append(u)
 
+    group_dict = {0: set(), 1: set()}
+    for i in range(1, V+1):
+        if visited[i]:
+            continue
 
-for _ in range(N): 
-    V, E = map(int, input().split()) 
-    A = [[] for _ in range(V+1)] 
-    visited = [False] * (V+1) 
-    check = [0] * (V + 1) 
-    IsEven = True 
+        queue = deque()
+        queue.append((i, 0))
+        visited[i] = True
 
-    for i in range(E): 
-        u, v = map(int, input().split()) 
-        A[u].append(v)
-        A[v].append(u) 
+        while queue and bipartite:
+            node, group = queue.popleft()
+            group_dict[group].add(node)
 
-    # 주어진 그래프가 항상 1개가 아니므로 모든 노드에서 수행한다. 
-    for i in range(1, V+1): 
-        if IsEven: 
-            DFS(i) 
-        else: 
-            break 
+            for next_node in adj_list[node]:
+                if visited[next_node]:
+                    if next_node in group_dict[group]:
+                        bipartite = False
+                        print("NO")
+                        break
+                if not visited[next_node]:
+                    visited[next_node] = True
+                    queue.append((next_node, (group + 1) % 2))
+        if not bipartite:
+            break
 
-    
-    if IsEven: 
-        print("YES") 
-    else: 
-        print("NO") 
+    # print(f"group_dict : {group_dict}")
+    if bipartite:
+        print("YES")
